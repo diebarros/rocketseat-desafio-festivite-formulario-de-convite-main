@@ -17,7 +17,7 @@ Módulo prático de JavaScript do curso Full stack, promovido pela Rocketseat pa
 <br>
 
 <p align="center">
-  <img alt="Zinguen" src="[https://github.com/diebarros/refund-template-main/blob/master/Thumbnail.png](https://github.com/diebarros/rocketseat-desafio-festivite-formulario-de-convite-main/blob/master/Thumbnail.png)">
+  <img alt="Zinguen" src="https://github.com/diebarros/rocketseat-desafio-festivite-formulario-de-convite-main/blob/master/Thumbnail.png">
 </p>
 
 ## 🚀 Tecnologias
